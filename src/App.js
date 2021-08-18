@@ -8,6 +8,7 @@ function App() {
       <img src={logo} className="App-logo" alt="logo" /> 
       <p> this is my awesome react app</p> 
        <p1> hello everyone </p1>
+        <p2> automatic deployment of amplify </p2>
        </header>
     </div>
   );
